@@ -12,16 +12,21 @@
 .user-component__avatar {
   width: 70px;
   height: 70px;
-  border-radius: 28px;
+  border-radius: 30px;
   margin-right: 20px;
 }
 
 .user-component__title {
-  font-weight: 600;
+  font-weight: 500;
   font-size: 22px;
 }
 
 .user-component__subtitle {
   margin-top: 7px;
   color: rgba(0, 0, 0, 0.55);
+}
+
+.user-component__avatar--xl {
+  width: 80px;
+  height: 80px;
 }
